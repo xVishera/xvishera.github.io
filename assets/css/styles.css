@@ -589,12 +589,6 @@ body {
   background: #374850;
 }
 
-.profile-image {
-  border-radius: 50%;
-  width: 210px;
-  height: 210px;
-}
-
 .header {
   border-top: 10px solid #f6ba17;
 }
